@@ -1,1 +1,1 @@
-Lights tamplate TDSadowski
+Lights template TDSadowski
